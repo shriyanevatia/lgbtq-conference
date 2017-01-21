@@ -5,3 +5,9 @@
 .btn-red {
 	color: #D32F2F;
 }
+
+.registration {
+	background-color: #f6e95b;
+	background-size: cover;
+  	position: relative;
+}
