@@ -11,3 +11,11 @@
 	background-size: cover;
   	position: relative;
 }
+
+.larger {
+	font-size: 2.8em;
+}
+
+.smaller {
+	font-size: .7em;
+}
