@@ -948,19 +948,16 @@ h4.title_share {
         width: 5%;
     }
     .schedule_table_col_02 {
-        width: 27%;
+        width: 45%;
     }
     .schedule_table_col_02_break {
         width: 70%;
     }
     .schedule_table_col_03 {
-        width: 27%;
+        width: 45%;
     }
     .schedule_table_col_03_break {
         width: 5%;
-    }
-    .schedule_table_col_04 {
-        width: 27%;
     }
     #buy_tickets_row .schedule_table_col_01 {
         display: none;
