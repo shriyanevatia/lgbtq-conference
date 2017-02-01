@@ -851,7 +851,7 @@ h4.title_share {
 }
 .schedule_table_col_02 {
     float: left;
-    width: 25%;
+    width: 39%;
     padding: 15px 3% 15px 0;
     margin: 0 3% -1000px 0;
     border-right: 1px solid rgb(235, 30, 35);
@@ -869,7 +869,7 @@ h4.title_share {
 }
 .schedule_table_col_03 {
     float: left;
-    width: 25%;
+    width: 39%;
     padding: 15px 3% 15px 0;
     margin: 0 3% -1000px 0;
     border-right: 1px solid rgb(235, 30, 35);
@@ -885,12 +885,6 @@ h4.title_share {
     width: 70%;
     padding: 15px 3% 15px 0;
     margin: 0 3% 0 3%;
-}
-
-.schedule_table_col_04 {
-    float: left;
-    width: 25%;
-    padding: 15px 0;
 }
 .prices_pro:before {
     content: "Professional";
