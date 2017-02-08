@@ -886,6 +886,67 @@ h4.title_share {
     padding: 15px 3% 15px 0;
     margin: 0 3% 0 3%;
 }
+
+.schedule_table_col_04 {
+    float: left;
+    width: 24%;
+    padding: 15px 3% 15px 0;
+    margin: 0 3% -1000px 0;
+    border-right: 1px solid rgb(235, 30, 35);
+    border-right: 1px solid rgba(235, 30, 35, .25);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    ;
+    padding-bottom: 1015px;
+}
+
+.schedule_table_col_04_break {
+    float: left;
+    width: 70%;
+    padding: 15px 3% 15px 0;
+    margin: 0 3% 0 3%;
+}
+
+.schedule_table_col_05 {
+    float: left;
+    width: 24%;
+    padding: 15px 3% 15px 0;
+    margin: 0 3% -1000px 0;
+    border-right: 1px solid rgb(235, 30, 35);
+    border-right: 1px solid rgba(235, 30, 35, .25);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    ;
+    padding-bottom: 1015px;
+}
+
+.schedule_table_col_05_break {
+    float: left;
+    width: 70%;
+    padding: 15px 3% 15px 0;
+    margin: 0 3% 0 3%;
+}
+
+.schedule_table_col_06 {
+    float: left;
+    width: 24%;
+    padding: 15px 3% 15px 0;
+    margin: 0 3% -1000px 0;
+    border-right: 1px solid rgb(235, 30, 35);
+    border-right: 1px solid rgba(235, 30, 35, .25);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    ;
+    padding-bottom: 1015px;
+}
+
+.schedule_table_col_06_break {
+    float: left;
+    width: 70%;
+    padding: 15px 3% 15px 0;
+    margin: 0 3% 0 3%;
+}
+
 .prices_pro:before {
     content: "Professional";
 }
