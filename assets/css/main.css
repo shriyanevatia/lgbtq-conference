@@ -2303,4 +2303,8 @@ blockquote .quote-text {
   outline: none;
 }
 
+#clubs {
+  color: white;
+  font-size: 2em;
+}
 
